@@ -1,15 +1,12 @@
 ### Hi there 👋
-I am interested in the following information about the current state of the application
 
-<!--
-**AmenKaabachi/AmenKaabachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Web Developpement Project.
+- 🌱 I’m currently learning React and Node.
+- 👯 I’m looking to collaborate on new projects and expand my knowledge.
+- 🤔 I’m looking for help with all things GitHub-related and networking.
+- 💬 Feel free to ask me about anything—I'm always up for making new friends in the tech field!
+- 📫 You can reach me on [LinkedIn](https://linkedin.com/in/amen-kaabachi-95306b248/).
 
-- 🔭 I’m currently working on java
-- 🌱 I’m currently learning python and javaScript
-- 👯 I’m looking to collaborate on new projects
-- 🤔 I’m looking for help with All things github realted and networking
-- 💬 Ask me about anything i want make new friends in this field
-- 📫 How to reach me: linkedin.com/in/amen-kaabachi-95306b248/
--->
+Feel free to check out my repositories and let's connect! 🚀
