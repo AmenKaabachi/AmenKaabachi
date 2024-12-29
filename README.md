@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am interested in the following information about the current state of the application
 
 <!--
 **AmenKaabachi/AmenKaabachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
